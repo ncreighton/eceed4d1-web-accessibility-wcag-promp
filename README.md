@@ -1,2 +1,25 @@
-# eceed4d1-web-accessibility-wcag-promp
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for Web Accessibility (WCAG) tasks. Save hours researching the right prompts.
+# Web Accessibility (WCAG) Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu7sL8v5bUEg889rKd0p0E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu7sL8v5bUEg889rKd0p0E)
+
